@@ -1,0 +1,6 @@
+Polynomial 1 canonical form: 6x^7+4x^5+2x^3
+Polynomial 2 canonical form: 6x^7+4x^5+2x^3
+
+Polynomial 1 + Polynomial 2 = 12x^7+8x^5+4x^3
+Polynomial 1 - Polynomial 2 = 
+Polynomial 1 * Polynomial 2 = 36x^14+48x^12+40x^10+16x^8+4x^6
